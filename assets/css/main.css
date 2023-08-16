@@ -1,0 +1,190 @@
+.header{
+
+}
+
+.container-fluid{
+
+}
+.bgc-header-contact{
+
+}
+.header-contact{
+height: 3.2rem;
+}
+.header-contact-tel{
+
+}
+.header-contact-tel a::after{
+position: absolute;
+content: "";
+width: 0.1rem;
+height: 3.1rem;
+background-color: rgb(216, 216, 216);
+margin: 0 1.2rem;
+}
+.header-contact-tel i{
+    color: rgb(255, 63, 0);
+    line-height: 3.2rem;
+    font-size: 1.6rem;
+
+}
+.header-contact-tel a{
+    line-height: 3.2rem;
+    position: relative;
+    color: #3d3d3d;
+    font-size: 1.6rem;
+    padding: 0 1.2rem 0 0.4rem;
+}
+.header-contact-social{
+
+}
+.header-social-link:after{
+    position: absolute;
+    content: "";
+    width: 0.1rem;
+    height: 3.1rem;
+    background-color: rgb(216, 216, 216);
+    margin: 0 1.2rem;
+    }
+.header-social-link{
+    line-height: 3.2rem;
+    padding: 1.2rem;
+    color: rgb(112, 112, 112);
+    font-size: 1.6rem;
+
+}
+
+/* logo */
+
+
+.header-logo-commit{
+margin-top: 1rem;
+}
+
+
+.header-logo{
+padding: 0 3rem;
+}
+.header-search i:hover{
+    background-color: rgb(210, 26, 26);
+    border: 0.1rem solid rgb(226, 226, 226);
+
+}
+.header-search i{
+    border-top-right-radius: 0.2rem;
+    border-bottom-right-radius: 0.2rem;
+    cursor: pointer;
+    font-size: 1.9rem;
+    padding: 0.7rem 1.1rem;
+    border: 0.1rem solid rgb(226, 226, 226);
+    background-color: rgb(249, 249, 249);
+}
+.header-search input{
+    border-top-left-radius: 0.2rem;
+    border-bottom-left-radius: 0.2rem;
+    width: 100%;
+    font-size: 1.4rem;
+    padding: 0.7rem 1.2rem;
+    outline: none;
+    border: 0.1rem solid rgb(226, 226, 226);
+}
+
+.header-commits{
+padding-left: 3rem;
+font-size: 1.4rem;
+
+}
+.header-commit-commit:hover,
+.header-commit-ship:hover{
+    color: red;
+}
+.header-commit-commit{
+    max-width: 23rem;
+    color: rgb(120, 120, 120);
+    margin-right: 2rem;
+
+}
+.header-commit-ship{
+    margin-right: 2rem;
+
+    color: rgb(120, 120, 120);
+    max-width: 25rem;
+}
+.nav-wrap{
+    margin: 0;
+}
+
+
+.nav-2-item{
+    
+}
+.nav-lists{
+    padding: 1.25rem 0;
+}
+.nav-lists p {
+    
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header-nav{
+    background-color: #46ad0e;
+}
+.nav-2-category{
+    top: 100%;
+    background-color: #f4f4f4;
+    width: 100%;
+}
+.nav-2-item img{
+    margin: 0 12px;
+}
+.nav-2-item{
+    display: flex;
+    align-items: center;
+    border: 0.5px solid #dedede;
+    padding: 12px  0;
+}
+.nav-2-item a {
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+.content-title{
+    font-size: 1.4rem;
+    margin: 1.2rem 0;
+}
+.content-title i{
+    margin: 0 1rem;
+    font-size: 12px;
+    opacity: 0.6;
+}
+.content-title:hover{
+    letter-spacing: 0;
+}
+.content-body-title {
+    background-color: #999;
+    margin: 2rem 0;
+}
+.content-body-text{
+    font-size: 1.4rem;
+}
+.title-intro img{
+    padding: 0.3rem 1rem;
+    /* display: block; */
+}
+.title-intro p{
+    padding: 1.2rem 1rem;
+    font-size: 1.8rem;
+    
+    font-weight: 600;
+    color: #fff;
+}
+.content-body-text{
+    line-height: 1.8rem;
+}
+.title-intro{
+    background: url('../img/bgc-giothieu.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
