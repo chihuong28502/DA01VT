@@ -143,18 +143,18 @@ font-size: 1.4rem;
     background-color: #46ad0e;
 }
 .nav-2-category{
-    top: 100%;
-    background-color: #f4f4f4;
-    width: 100%;
+    /* background-color: #f4f4f4; */
 }
 .nav-2-item img{
     margin: 0 12px;
 }
 .nav-2-item{
+    background-color: #f4f4f4;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     border: 0.5px solid #dedede;
-    padding: 12px  0;
+    padding: 1.04rem  0;
 }
 .nav-2-item a {
     font-size: 1.3rem;
