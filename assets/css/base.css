@@ -22,7 +22,7 @@ p{
 html {
     /* HACK */
     font-size: 10px;
-    font-family: 'Tinos', serif;
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 .col-26{
@@ -40,7 +40,9 @@ html {
     background-color: rgb(245, 245, 245);
     height: 3.2rem;
 }
-
+.bgc-red{
+    background-color: #ff3f00;
+}
 @media (min-width: 1200px){
 .container {
     max-width: 1200px;
