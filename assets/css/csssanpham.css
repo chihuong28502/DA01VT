@@ -1,0 +1,28 @@
+.product{
+  padding: 6px;
+  border: 1px solid #eaeaea;
+  margin: 0.6rem;
+  max-width: calc(25% - 1.2rem)!important;
+}
+.product-description:hover{
+  cursor: pointer;
+  color: red;
+}
+.content-body-products {
+  margin: 0 -0.6rem;
+}
+.product-description p{
+  margin: 1.2rem;
+}
+.product-description label{
+  margin-bottom: 0.6rem;
+  color: #cee6c6;
+
+
+}
+.product-description{
+  margin-top: 0.8rem;
+  font-size: 1.4rem;
+  text-align: center;
+  font-weight: 500;
+}
